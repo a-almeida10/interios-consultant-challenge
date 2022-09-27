@@ -44,9 +44,7 @@ História de usuário:
 
 - HTML5
 - SASS/SCSS
-- CSS Grid
-- CSS flexbox
-- Google Fonts
+- Bootstrap 5
 
 ## Features
 

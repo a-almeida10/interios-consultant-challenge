@@ -1,0 +1,51 @@
+.body {
+  background-color: #181719;
+  color: white;
+  nav {
+    background-color: #181719;
+
+    ul {
+      width: 100%;
+      a {
+        color: white;
+        padding-bottom: 2px;
+
+        &:hover {
+          border-bottom: solid 1px white;
+        }
+      }
+    }
+  }
+  .description {
+    text-justify: distribute;
+  }
+  .profile-card {
+    z-index: 1;
+    max-width: 420px;
+    min-width: 300px;
+    background-color: #181719;
+    float: right;
+    position: relative;
+    margin-top: -100px;
+
+    .profile-pic {
+      height: 50px;
+      width: 50px;
+    }
+  }
+
+  .footer {
+    width: 100%;
+    a {
+      color: white;
+      text-decoration: none;
+
+      &:hover {
+        border-bottom: solid 1px white;
+      }
+    }
+  }
+}
+.more {
+  cursor: pointer;
+}
