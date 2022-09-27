@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a  target="_blank" href="https://{your-demo-link.your-domain}">
+    <a  target="_blank" href="https://vercel.com/a-almeida10/interios-consultant-challenge-9mc3">
      Preview
     </a>
     <span> | </span>
@@ -20,7 +20,7 @@
 
 ## Índice
 
-- [Visão Geraç](#visão-geral)
+- [Visão Geral](#visão-geral)
   - [Ferramentas](#ferramentas)
 - [Features](#features)
 - [Contato](#contato)
@@ -35,8 +35,8 @@ História de usuário:
 - Em dispositivos móveis a barra de navegação se transforma em um menu hambúrguer.
 - Em dispositiovs móveis, ao selecionar o ícone do menu consigo ver as opções de navegação.
 
-![Tela:320px]()
-![Tela: 1024px]()
+![Tela:375px](./screenshots/375px.png)
+![Tela: 1440px](./screenshots/1440px.png)
 
 ### Ferramentas
 

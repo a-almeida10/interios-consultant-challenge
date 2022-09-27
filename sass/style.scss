@@ -49,3 +49,11 @@
 .more {
   cursor: pointer;
 }
+
+@media (max-width: 475px) {
+  .body {
+    .profile-card {
+      margin-top: 1px;
+    }
+  }
+}
